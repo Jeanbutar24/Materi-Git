@@ -46,5 +46,11 @@ GIT BRANCH
  1. Relatif terhadap branch yang aktif saat ini.
  2. untuk menggabungkan commit dari 2 branch.
  3. Untuk melakukan merge harus dipastikan tidak ada file yang belum di commit.
+
+
+ MENGENAL GUI
+ 1. memudahkan mengunakan git.
+ 2. memperbaiki konflik menjadi lebih mudah.
+ 3. mempercepat kinerja
  
 
