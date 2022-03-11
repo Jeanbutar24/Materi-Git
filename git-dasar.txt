@@ -1,4 +1,19 @@
 VERSION CONTROL SYSTEM
-1. Version Control adalah sebuah system yang merekam perubahan pada file dari waktu ke waktu, sehingga kita bisa melihat versi sebelumnya jika diinginkan
-2. Dengan version control, programmer bisa merekam semua perubahan yang terjadi, sehingga jika terjadi kesalahan, programmer bisa dengan mudah kembali ke versi sebelumnya
+1. Version Control adalah sebuah system yang merekam perubahan pada file dari waktu ke waktu, 
+    sehingga kita bisa melihat versi sebelumnya jika diinginkan
+2. Dengan version control, programmer bisa merekam semua perubahan yang terjadi,
+   sehingga jika terjadi kesalahan, programmer bisa dengan mudah kembali ke versi sebelumnya
+
+
+PENGENALAN GIT
+1. Git tidak membutuhkan server untuk melakukan perubahan atau melihat riwayat revisi,
+   hal ini dikarenakan dalam Git, semua riwayat project akan selalu di duplikasi,
+   baik itu di server ataupun di local computer.
+2. Setiap perubahan yang terjadi di Git akan selalu dibuat signature (tanda) nya menggunakan 
+    algoritma hashing SHA-1. Hal ini menjadikan perubahan sekecil apapun pasti bisa dideteksi
+    oleh git.
+3. Semua hal yang terjadi di git secara otomatis akan dicatat, hal ini menjadikan perubahan
+   apapun di Git,  pasti selalu bisa dikembalikan ke versi sebelumnya.
+4. GIT merupakan salah satu DVCs.
+
 
