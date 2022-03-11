@@ -29,7 +29,12 @@ TAHAP TAHAP MENGGUNAKAN GIT
     > lakukan "git init" (untuk membuat file kita menjadi Repository )
     > setelah muncul tulisan master pada git bash, maka fIe kita telah menjadi Repository.
 
-
+3. membuat file menjadi permanen pada Repository
+    > buat file random dalam folder git yang telah dilakukan
+    > lalu lakukan "git add nama-file" (ha ini bertujuan untuk membawa kita kepada staging area)
+    > lakukan commit dengan "git commit -m "perubahanyang dilakukan"
+    > file pun telah menjadi permanen pada Repository
+        
     
  
 
