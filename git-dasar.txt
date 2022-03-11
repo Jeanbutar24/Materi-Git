@@ -17,3 +17,19 @@ PENGENALAN GIT
 4. GIT merupakan salah satu DVCs.
 
 
+TAHAP TAHAP MENGGUNAKAN GIT
+1. Membuat configurtion ( user name dan user email)
+    > git config --global user.name "jean"
+    > git config --global user.email "jeanbutar24@gmail.com"
+
+2. Membuat Repository
+    > tentukan di folder mana kita ingin menyimpan repo kita.
+    > buat nama folder (kalau bisa tidak mengunakan spasi namu "-")
+    > masuk ke git bash
+    > lakukan "git init" (untuk membuat file kita menjadi Repository )
+    > setelah muncul tulisan master pada git bash, maka fIe kita telah menjadi Repository.
+
+
+    
+ 
+
