@@ -34,7 +34,17 @@ TAHAP TAHAP MENGGUNAKAN GIT
     > lalu lakukan "git add nama-file" (ha ini bertujuan untuk membawa kita kepada staging area)
     > lakukan commit dengan "git commit -m "perubahanyang dilakukan"
     > file pun telah menjadi permanen pada Repository
-        
-    
+
+GIT BRANCH        
+ 1. Git branch: melihat semua branch (local)
+ 2. Git branch --all: melihat semua branch (public)
+ 3. Git branch nama_branch: membuat branch baru
+ 4. Git checkout nama_branch: untuk berpindah branch
+ 5. Git branch -d nama_branch: untuk menghapus branch
+
+ GIT MERGE 
+ 1. Relatif terhadap branch yang aktif saat ini.
+ 2. untuk menggabungkan commit dari 2 branch.
+ 3. Untuk melakukan merge harus dipastikan tidak ada file yang belum di commit.
  
 
